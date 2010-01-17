@@ -1,0 +1,8 @@
+Go bindings for libmagic by Samuel Baldwin.
+
+See for further information, see
+
+	http://logik.li/projects/gomagic
+	http://github.com/RecursiveForest/gomagic
+
+To install, run 'gomake install'. Depends on libmagic.
